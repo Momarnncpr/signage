@@ -1,0 +1,163 @@
+{
+  "meta": {
+    "client": {
+      "lastModifiedTime": "2026-06-19T18:16:05.194",
+      "enableSerialDebugging": false,
+      "enableSystemLogDebugging": false,
+      "publishedDataSizeLimitMB": 0,
+      "dynamicDataSizeLimitMB": 0,
+      "htmlDataSizeLimitMB": 0,
+      "htmlLocalStorageSizeLimitMB": 0,
+      "htmlIndexedDBSizeLimitMB": 0,
+      "publishedDataSizeLimitPercentage": 0,
+      "dynamicDataSizeLimitPercentage": 0,
+      "htmlDataSizeLimitPercentage": 0,
+      "htmlLocalStorageSizeLimitPercentage": 0,
+      "htmlIndexedDBSizeLimitPercentage": 0,
+      "limitStorageSpace": false,
+      "playbackLoggingEnabled": false,
+      "eventLoggingEnabled": false,
+      "diagnosticLoggingEnabled": false,
+      "stateLoggingEnabled": false,
+      "variableLoggingEnabled": false,
+      "uploadLogFilesAtBoot": false,
+      "uploadLogFilesAtSpecificTime": false,
+      "uploadLogFilesTime": 0,
+      "base": "https://momarnncpr.github.io/signage/xt5",
+      "next": "/current-sync.json",
+      "event": "EVENT",
+      "error": "ERROR",
+      "deviceerror": "DEVICEERROR",
+      "uploadusage": "UPLOADUSAGE",
+      "getfile": "GETFILE",
+      "uploadLogs": "",
+      "uploadSnapshots": "",
+      "timeBetweenNetConnects": 300,
+      "contentDownloadsRestricted": false,
+      "contentDownloadRangeStart": 0,
+      "contentDownloadRangeLength": 0,
+      "deviceScreenShotsEnabled": true,
+      "deviceScreenShotsInterval": 60000,
+      "deviceScreenShotsCountLimit": 5,
+      "deviceScreenShotsQuality": 50,
+      "deviceScreenShotsOrientation": "Landscape"
+    },
+    "server": {
+      "account": "ACCOUNT",
+      "user": "",
+      "password": "",
+      "enableBasicAuthentication": false,
+      "group": "GROUPNAME"
+    }
+  },
+  "files": {
+    "download": [
+      {
+        "name": "autoplay-XT5.json",
+        "hash": {
+          "method": "SHA1",
+          "hex": "774a982ca730989499c13ae2a972e3a384e1c3ba"
+        },
+        "size": 21159,
+        "link": "https://momarnncpr.github.io/signage/xt5/pool/b/a/sha1-774a982ca730989499c13ae2a972e3a384e1c3ba",
+        "headers": null,
+        "chargeable": false
+      },
+      {
+        "name": "XT5.bml",
+        "hash": {
+          "method": "SHA1",
+          "hex": "692530e51991f57d63a86e781ae8f1434eb002fc"
+        },
+        "size": 23702,
+        "link": "https://momarnncpr.github.io/signage/xt5/pool/f/c/sha1-692530e51991f57d63a86e781ae8f1434eb002fc",
+        "headers": null,
+        "chargeable": false
+      },
+      {
+        "name": "autoplugins.brs",
+        "hash": {
+          "method": "SHA1",
+          "hex": "4757dc2a65c88a30f08d9ae0d7722998f0510bb8"
+        },
+        "size": 142,
+        "link": "https://momarnncpr.github.io/signage/xt5/pool/b/8/sha1-4757dc2a65c88a30f08d9ae0d7722998f0510bb8",
+        "headers": null,
+        "chargeable": false,
+        "group": "script"
+      },
+      {
+        "name": "autorun.brs",
+        "hash": {
+          "method": "SHA1",
+          "hex": "ba60811c98b54d4093357801fd2d5855d84bbb1d"
+        },
+        "size": 1182034,
+        "link": "https://momarnncpr.github.io/signage/xt5/pool/1/d/sha1-ba60811c98b54d4093357801fd2d5855d84bbb1d",
+        "headers": null,
+        "chargeable": false,
+        "group": "script"
+      },
+      {
+        "name": "autoschedule.json",
+        "hash": {
+          "method": "SHA1",
+          "hex": "53ee8f5813d0811ebc3b9656bf27362fa06b0751"
+        },
+        "size": 888,
+        "link": "https://momarnncpr.github.io/signage/xt5/pool/5/1/sha1-53ee8f5813d0811ebc3b9656bf27362fa06b0751",
+        "headers": null,
+        "chargeable": false
+      },
+      {
+        "name": "featureMinRevs.json",
+        "hash": {
+          "method": "SHA1",
+          "hex": "be206e2753e404e0135926e3f26fea9a8da705d2"
+        },
+        "size": 72,
+        "link": "https://momarnncpr.github.io/signage/xt5/pool/d/2/sha1-be206e2753e404e0135926e3f26fea9a8da705d2",
+        "headers": null,
+        "chargeable": false
+      },
+      {
+        "name": "PartnerProducts.json",
+        "hash": {
+          "method": "SHA1",
+          "hex": "7f6f525d51ba1977356a37f7b9f097a52cf53f3a"
+        },
+        "size": 5473,
+        "link": "https://momarnncpr.github.io/signage/xt5/pool/3/a/sha1-7f6f525d51ba1977356a37f7b9f097a52cf53f3a",
+        "headers": null,
+        "chargeable": false
+      },
+      {
+        "name": "Default_PresentationWebPage/_deviceWebPage.html",
+        "hash": {
+          "method": "SHA1",
+          "hex": "b6bec2ed0cd22a6d53cd97056d7d5f82705ffe9d"
+        },
+        "size": 24922,
+        "link": "https://momarnncpr.github.io/signage/xt5/pool/9/d/sha1-b6bec2ed0cd22a6d53cd97056d7d5f82705ffe9d",
+        "headers": null,
+        "chargeable": false
+      }
+    ],
+    "ignore": [
+      {
+        "pattern": "*"
+      }
+    ],
+    "delete": [
+      {
+        "pattern": "*.brs"
+      },
+      {
+        "pattern": "*.rok"
+      },
+      {
+        "pattern": "*.bsfw"
+      }
+    ]
+  }
+}
